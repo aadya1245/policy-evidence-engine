@@ -13,6 +13,10 @@ npm run serve
 
 ## Implemented
 
+- Editable research question, scope, and jurisdiction workspace
+- Add/remove source library with source type and quality inputs
+- Add/remove atomic claims linked to exact supporting sources
+- Browser-local persistence and JSON research export
 - Explainable, categorical source-quality scoring
 - Atomic claim-to-evidence links with precise locators
 - Temporal status labels from proposed through implemented/repealed
@@ -20,6 +24,7 @@ npm run serve
 - Deterministic contradiction detection that preserves disagreement
 - Human approval step for qualified synthesis
 - Interactive claim inspector and evidence provenance
+- Generated report view with copy and approval controls
 
 ## How it works
 
